@@ -1,0 +1,38 @@
+{
+    "main": {
+        "title": "currency Exchanger",
+  
+    
+        "nav": {
+            "currency": "Currency",
+            "exchange": "Exchange",
+            "currency-exchange": "CURRENCY EXCHANGE"
+        },
+        "exchange-field": {
+            "amount": "Amount",
+            "from": "From",
+            "to": "To",
+            "convert": "CONVERT"
+        },
+        "tables": {
+            "exchange-history": "Exchange History",
+            "duration": "Duration",
+            "all": "All",
+            "days": "Days",
+            "date": "Date",
+            "exchange-rate": "Exchange Rate",
+            "statistics": "Statistics",
+            "lowest": "Lowest",
+            "highest": "Highest",
+            "average": "Average",
+            "conversion-history": "Exchange History",
+            "event": "Event",
+            "actions": "Actions",
+            "view": "View",
+            "delete": "Delete from history",
+            "converted-an-amount-of": "Converted an amount of",
+            "from": "from",
+            "to": "to"
+        }
+    }
+}
